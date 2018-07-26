@@ -2,6 +2,7 @@
 Virtual Reality Application that gives a tour of the CSE department using head movement gestures built using Unity 3D and scripted using C#.
 Movement in the virtual space is based on head movement gestures. The
 gestures are:
+
   	i) MoveHeadForward (to move forward in the virtual world)
   	ii) MoveHeadBackward (to move backward in the virtual world)
   	iii) MoveHeadLeft (to move left in the virtual world)
