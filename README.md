@@ -13,6 +13,6 @@ gestures are:
   	viii) TurnHeadLeft (to take left-turn in the virtual world)
   
   Application Release Link : 
-	Final Beta :
+  
 	https://drive.google.com/file/d/1wXv9KPokyjU6ANXgrj-NfDBN4icr1KPH/view?usp=sharing
   
